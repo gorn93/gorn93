@@ -2,9 +2,9 @@
 - 👀 I’m interested in ML and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on coding and analysing 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : taoussirachi@gmail.com
+- 😄 Pronouns: GoRn 
+- ⚡ Fun fact: One day we will die
 
 <!---
 gorn93/gorn93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
