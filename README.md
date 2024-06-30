@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @gorn93
+ 👋 Hi, I’m @gorn93
 - 👀 I’m interested in ML and data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on coding and analysing 
-- 📫 How to reach me : taoussirachi@gmail.com
-- 😄 Pronouns: GoRn 
+- 💞️ I’m looking to collaborate on coding and analyzing 
+- 📫 How to reach me: taoussirachi@gmail.com
+- 😄 Pronouns: GoRn
   
 
 <!---
