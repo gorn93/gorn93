@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding and analysing 
 - 📫 How to reach me : taoussirachi@gmail.com
 - 😄 Pronouns: GoRn 
-- ⚡ Fun fact: One day we will die
+  
 
 <!---
 gorn93/gorn93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
